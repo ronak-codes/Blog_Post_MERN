@@ -12,8 +12,9 @@ Steps to run this application :-
 **Signup/Login Page** 
 
 
-![blog_post_1](https://github.com/ronak-codes/Blog_Post_MERN/assets/90419202/1a0faecf-6f1e-4e47-9288-15e67998ea82)
 
+
+![blog_post_1](https://github.com/ronak-codes/Blog_Post_MERN/assets/90419202/f022cbd2-a1ea-48f8-b631-69ce58249e52)
 
 
 
